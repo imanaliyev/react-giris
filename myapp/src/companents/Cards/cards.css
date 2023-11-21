@@ -1,0 +1,11 @@
+.container{
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 30px   ;
+        height: 84.3vh;
+       
+    
+   
+}
